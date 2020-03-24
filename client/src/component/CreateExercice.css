@@ -1,0 +1,5 @@
+.form_create {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
